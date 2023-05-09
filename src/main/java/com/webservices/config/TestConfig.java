@@ -1,9 +1,9 @@
 package com.webservices.config;
 
-import com.webservices.entity.Category;
-import com.webservices.entity.Order;
-import com.webservices.entity.Product;
-import com.webservices.entity.User;
+import com.webservices.entities.Category;
+import com.webservices.entities.Order;
+import com.webservices.entities.Product;
+import com.webservices.entities.User;
 import com.webservices.enums.OrderStatus;
 import com.webservices.repository.CategoryRepository;
 import com.webservices.repository.OrderRepository;

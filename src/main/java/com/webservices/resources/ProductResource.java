@@ -1,7 +1,7 @@
 package com.webservices.resources;
 
 
-import com.webservices.entity.Product;
+import com.webservices.entities.Product;
 import com.webservices.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

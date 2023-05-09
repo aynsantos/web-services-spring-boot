@@ -1,7 +1,7 @@
 package com.webservices.repository;
 
 
-import com.webservices.entity.Product;
+import com.webservices.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

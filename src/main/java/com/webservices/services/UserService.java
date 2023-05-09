@@ -1,7 +1,7 @@
 package com.webservices.services;
 
 
-import com.webservices.entity.User;
+import com.webservices.entities.User;
 import com.webservices.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

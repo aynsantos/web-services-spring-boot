@@ -1,10 +1,8 @@
 package com.webservices.services;
 
 
-import com.webservices.entity.Order;
-import com.webservices.entity.User;
+import com.webservices.entities.Order;
 import com.webservices.repository.OrderRepository;
-import com.webservices.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

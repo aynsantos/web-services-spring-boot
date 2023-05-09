@@ -1,7 +1,7 @@
 package com.webservices.services;
 
 
-import com.webservices.entity.Product;
+import com.webservices.entities.Product;
 import com.webservices.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

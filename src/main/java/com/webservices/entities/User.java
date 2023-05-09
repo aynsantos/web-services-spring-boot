@@ -1,4 +1,4 @@
-package com.webservices.entity;
+package com.webservices.entities;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

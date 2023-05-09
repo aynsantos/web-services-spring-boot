@@ -1,7 +1,7 @@
 package com.webservices.resources;
 
 
-import com.webservices.entity.Order;
+import com.webservices.entities.Order;
 import com.webservices.services.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
